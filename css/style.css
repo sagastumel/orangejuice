@@ -1,0 +1,86 @@
+li{
+  list-style: none;
+  display: inline-block;
+  padding: 5px 15px 40px 5px;
+  font-size: 30px;
+  color: white;
+  text-align: center;
+}
+.margin-right{
+  margin-right: 250px;
+}
+
+ul{
+  background-color: orange;
+  padding: 15px 0px 0px 0px;
+  margin: 0px;
+  text-align: center;
+}
+img{
+  height: 80px;
+  width: 80px;
+  padding-left: 50px;
+}
+.bold{
+  font-weight: bold;
+}
+li.resize{
+  padding: 0px;
+}
+
+.color-lb{
+  background-color: lightblue;
+  margin-right: 20px;
+}
+.color-or{
+  background-color: orange;
+}
+
+section{
+  float: left;
+  text-align: center;
+}
+aside{
+  text-align: center;
+}
+input, button{
+  height: 50px;
+  width: 180px;
+
+}
+
+p{
+  font-size: 45px;
+  color: orange;
+}
+.one{
+  margin-top: 60px;
+}
+
+.image2{
+  height: 400px;
+  width: 400px;
+}
+
+/* footer */
+
+.fa-facebook-square{
+  padding-right: 10px;
+  color: white;
+}
+
+.fa-instagram{
+  padding-right: 10px;
+  color: white;
+}
+
+.fa-twitter{
+  color: white;
+}
+
+.lightblue{
+  background-color: lightblue;
+  margin-top: 100px;
+  padding: 100px;
+  text-align: center;
+}
